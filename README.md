@@ -1,10 +1,10 @@
-### Curso-Angular---MiduDev
+# Curso-Angular---MiduDev
 
-# Instalar Consola de comandos para Angular.
+## Instalar Consola de comandos para Angular.
 
 npm install -g @angular/cli 
 
-# Comprobar instalacion de la consola de angular
+## Comprobar instalacion de la consola de angular
 
 ng version
 
