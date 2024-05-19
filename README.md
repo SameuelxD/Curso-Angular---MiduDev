@@ -16,3 +16,6 @@ ng new angular-midu , el comando va con el nombre del proyecto
 
 ## Levantar servidor.
 ng serve
+
+## Crear componentes
+ng generate component user
