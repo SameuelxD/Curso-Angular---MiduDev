@@ -19,3 +19,5 @@ ng serve
 
 ## Crear componentes
 ng generate component user
+ng generate component games --skip-tests --inline-style --inline-template
+ng generate component user --help
